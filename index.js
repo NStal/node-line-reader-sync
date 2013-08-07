@@ -1,2 +1,2 @@
 require("coffee-script")
-module.exports = require("../lineReaderSync.coffee")
+module.exports = require("./lib/lineReaderSync.coffee")
