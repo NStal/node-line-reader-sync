@@ -1,4 +1,5 @@
-# A synced line reader from file.
+# node-line-reader-sync
+An sync version of nodejs line reader
 Only support \n nor \r\n currently.
 
 ```javascript
