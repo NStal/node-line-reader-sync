@@ -13,4 +13,7 @@ while(true){
   }
   
 }
+//or
+lrs.toLines()
+//["line1","line2"...]
 ```
